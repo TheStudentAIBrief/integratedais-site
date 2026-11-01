@@ -1,0 +1,33 @@
+# Open crawl posture, deliberately chosen (see AEO gap analysis, 2026-07-17).
+# The crawl-to-refer economics that justify blocking AI bots do not apply to a
+# small static consulting site, and training-corpus + citation presence is an
+# asset for this firm. The named blocks below make that intent explicit.
+
+# Default: everything is allowed.
+User-agent: *
+Allow: /
+
+# AI search / answer-engine fetchers — the citation surface. NEVER block these:
+# blocking the search tier collapses citation propensity to zero.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://integratedais.com/sitemap-index.xml

@@ -1,0 +1,46 @@
+# Integrated AIS
+
+> AI integration and adoption consultancy specialising in secure, on-premises and
+> air-gapped deployment across regulated and long-term sectors (financial services,
+> public sector & defence, healthcare, energy and more). UK-based. Slogan:
+> "don't wait to innovate, integrate".
+
+## Core pages
+
+- [Home](https://integratedais.com/): Overview of Integrated AIS and how we move AI from pilot to production securely.
+- [Capabilities](https://integratedais.com/capabilities): Five capabilities — AI integration & adoption, secure/on-premises & air-gapped deployment, strategy & advisory, data & MLOps enablement, managed support.
+- [Sectors](https://integratedais.com/sectors): How we serve regulated, high-stakes environments — financial services, public sector & defence, healthcare, manufacturing, professional services, energy.
+- [Security & Trust](https://integratedais.com/security): Our data-protection posture, secure/air-gapped deployment approach, certifications programme and responsible disclosure.
+- [About](https://integratedais.com/about): Mission, approach and the founders (Theo Laredo, William Mann).
+- [Contact](https://integratedais.com/contact): Get in touch about a secure AI engagement.
+
+## Capability & sector guides
+
+- [Air-Gapped & On-Premises AI Deployment](https://integratedais.com/air-gapped-ai): AI that runs entirely inside infrastructure you control — on-premises, private cloud or fully air-gapped with zero external network dependency.
+- [On-Premises LLM Deployment](https://integratedais.com/on-premises-llm): Self-hosted large language models running inside your own infrastructure, so prompts, context and outputs never leave your network. Model-neutral.
+- [Data Sovereignty AI](https://integratedais.com/data-sovereignty-ai): Data-sovereign AI deployments that keep your data — and its legal and contractual obligations — under your jurisdiction and control.
+- [AI Governance Consulting](https://integratedais.com/ai-governance): Turning AI governance principles into concrete, evidenced controls — ownership, risk classification, oversight, audit trails, change control. Aligned to ISO 42001.
+- [AI for Financial Services](https://integratedais.com/ai-for-financial-services): Secure, on-premises and in-region AI for regulated financial services firms, designed to satisfy risk, compliance and audit.
+- [AI for Public Sector & Defence](https://integratedais.com/ai-for-public-sector-defence): AI deployed inside your own security and accreditation regime — on-premises or fully air-gapped, zero-egress by design.
+- [AI for Healthcare](https://integratedais.com/ai-for-healthcare): AI adoption without patient data leaving your control — secure, in-region deployment fitted to information governance, clinical safety and UK GDPR.
+- [AI for Energy & Utilities](https://integratedais.com/ai-for-energy): Secure, on-premises and air-gapped AI for critical national infrastructure — fitted to OT/ICS security, NIS obligations and long asset lifecycles.
+- [AI for Manufacturing](https://integratedais.com/ai-for-manufacturing): AI on the shop floor and across the supply chain without exposing IP or trade secrets — deployed inside air-gapped factory and OT networks.
+- [AI for Professional Services](https://integratedais.com/ai-for-professional-services): AI for law, accountancy and consultancy firms that preserves client confidentiality and privilege — client matter data stays under your control.
+
+## Glossary
+
+- [AI Security & Deployment Glossary](https://integratedais.com/glossary): Plain-English definitions of the secure-AI terms we work in — air-gapped AI, on-premises LLMs, data sovereignty, model exfiltration, prompt injection, RAG, AI red-teaming and more, each with a DefinedTerm entry.
+
+## Insights
+
+- [Air-Gapped & On-Premises AI for Regulated Industries](https://integratedais.com/insights/air-gapped-ai-for-regulated-industries): The cornerstone guide — what air-gapped and on-premises AI means, the deployment spectrum, the decision variables, and how it plays out across regulated sectors.
+
+- [When AI Can't Touch the Cloud: A Practical Case for Air-Gapped Deployment](https://integratedais.com/insights/secure-air-gapped-ai-deployment): Why some organisations need on-premises or air-gapped AI, what "air-gapped" really means, and an honest look at the trade-offs.
+- [Running AI in an Air-Gapped Environment: The Operational Realities](https://integratedais.com/insights/operating-air-gapped-ai-in-production): What it actually takes to operate, update and patch an air-gapped AI system over its lifetime.
+- [On-Premises or Cloud AI? A Decision Framework for Regulated Organisations](https://integratedais.com/insights/on-premises-or-cloud-ai-decision-framework): Running the choice through five variables — data sensitivity, scale, latency, control and update cadence.
+- [The Real Cost of On-Premises AI: What the Business Case Often Leaves Out](https://integratedais.com/insights/real-cost-of-on-premises-ai): The durable costs — power, staffing, maintenance and update cadence — that a hardware-only business case misses.
+- [What "The Data Can't Leave the Building" Really Means for AI](https://integratedais.com/insights/what-data-cannot-leave-the-building-means): Unpacking residency, processing versus storage, contractual duties and sovereignty, and why the right architecture varies.
+- [AI Governance for Regulated Sectors: Turning Principles into Deployable Controls](https://integratedais.com/insights/ai-governance-regulated-sectors): The concrete controls, ownership and audit trails that let a system go live and stand up to scrutiny afterwards.
+- [How to Choose a Secure AI Deployment Partner: A Buyer's Checklist](https://integratedais.com/insights/choosing-a-secure-ai-deployment-partner): The questions that separate a partner who can stand up a compliant, maintainable system from one who can only run a demo.
+- [Measuring the ROI of an AI Integration Project: A Practical Guide](https://integratedais.com/insights/measuring-roi-of-ai-integration): Leading versus lagging indicators, why time-to-value matters more than raw accuracy, and a framework for proving return.
+- [Moving from AI Pilots to Production: A Practical Framework](https://integratedais.com/insights/moving-from-ai-pilots-to-production): A repeatable framework for taking a pilot live — governance, data readiness, security review, phased rollout and ROI measurement.

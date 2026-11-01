@@ -1,0 +1,8 @@
+# Integrated AIS — security contact / responsible disclosure
+# https://integratedais.com/security
+
+Contact: https://integratedais.com/contact
+Expires: 2027-07-12T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://integratedais.com/.well-known/security.txt
+Policy: https://integratedais.com/security
